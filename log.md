@@ -16,3 +16,9 @@ more difficult challenges and projects.
 **Thoughts:** it Was hard combine the webpack template with codeigniter I faced some problems but at the end it worked.
 
 **Link to work:** [vue-webpack codeignter project](https://github.com/jesusantguerrero/ics-concept-page)
+
+### Day 3: October 12, 2017 
+
+**Today's Progress**: still working in my app vue+codeigniter, added a map from google and some styles. There's more work tomorrow.
+
+**Link to work:** [vue-webpack codeignter project](https://github.com/jesusantguerrero/ics-concept-page)

@@ -7,7 +7,7 @@ more difficult challenges and projects.
 
 **Thoughts:** I learn how to use the array prototype methods reduce, filter and map turns a lst of node elements in an array.
 
-**Link to work:** [Array Cardio js30 challenge](http://www.example.com)
+**Link to work:** [Array Cardio js30 challenge](https://github.com/jesusantguerrero/JavaScript30)
 
 ### Day 2: October 11, 2017 
 
@@ -29,7 +29,7 @@ more difficult challenges and projects.
 
 **Today's Progress**: not much advance with my app, so I took a break from it and did a javascript30 challenge flexbox gallery.
 
-**Link to work:** [](https://github.com/jesusantguerrero/ics-concept-page)
+**Link to work:** [JS30](https://github.com/jesusantguerrero/JavaScript30)
 
 ### Day 5: October 14, 2017 
 

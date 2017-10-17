@@ -43,3 +43,11 @@ more difficult challenges and projects.
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)
 **Link to work:** [IC Note](https://github.com/jesusantguerrero/icnote/releases)
+
+### Day 7: October 16, 2017 
+
+**Today's Progress**: more freeCodeCamp js challenges.
+
+**Thoughts:** mastering js regular expressions.
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)

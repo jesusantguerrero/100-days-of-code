@@ -51,3 +51,20 @@ more difficult challenges and projects.
 **Thoughts:** mastering js regular expressions.
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)
+
+### Day 8: October 17, 2017 
+
+**Today's Progress**: freeCodeCamp js challenges, setting up styles for random quote app.
+
+**Thoughts:** mastering js regular expressions.
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)
+
+## Restart
+
+### Day 1: October 17, 2017 
+
+**Today's Progress**: I lose the streak(energy problems). So I'll restart finished random quote app , working in my app
+**Thoughts:** mastering js regular expressions.
+
+**Link to work:** [Random Quote App](https://goo.gl/aHEKbJ)

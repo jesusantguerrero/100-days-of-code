@@ -62,9 +62,19 @@ more difficult challenges and projects.
 
 ## Restart
 
-### Day 1: October 17, 2017 
+### Day 1: October 22, 2017 
 
 **Today's Progress**: I lose the streak(energy problems). So I'll restart finished random quote app , working in my app
 **Thoughts:** mastering js regular expressions.
 
 **Link to work:** [Random Quote App](https://goo.gl/aHEKbJ)
+
+
+### Day 2: October 23, 2017 
+
+**Today's Progress**: playing with fetch() and regex from javascript30
+started weather app using @vuejs for freeCodeCamp
+
+**Thoughts:** discover fetch, no more $.getjson!.
+
+**Link to work:** [js30 day6](https://github.com/jesusantguerrero/JavaScript30)

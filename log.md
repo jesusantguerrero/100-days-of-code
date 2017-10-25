@@ -87,4 +87,6 @@ array cardio 2 and canvas #javascript30
 
 **Thoughts:** discover fetch, no more $.getjson!.
 
-**Link to work:** [js30 day7-8](https://github.com/jesusantguerrero/JavaScript30)
+**Link to work:** 
+- [weather app](hhttps://codepen.io/freesgen/full/WZqdaL/)
+- [js30 day7-8](https://github.com/jesusantguerrero/JavaScript30)

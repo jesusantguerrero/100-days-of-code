@@ -78,3 +78,13 @@ started weather app using @vuejs for freeCodeCamp
 **Thoughts:** discover fetch, no more $.getjson!.
 
 **Link to work:** [js30 day6](https://github.com/jesusantguerrero/JavaScript30)
+
+### Day 3: October 24, 2017 
+
+**Today's Progress**: inspiring day playing 
+finished weather app for freeCodeCamp
+array cardio 2 and canvas #javascript30
+
+**Thoughts:** discover fetch, no more $.getjson!.
+
+**Link to work:** [js30 day7-8](https://github.com/jesusantguerrero/JavaScript30)

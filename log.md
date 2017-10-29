@@ -90,3 +90,48 @@ array cardio 2 and canvas #javascript30
 **Link to work:** 
 - [weather app](hhttps://codepen.io/freesgen/full/WZqdaL/)
 - [js30 day7-8](https://github.com/jesusantguerrero/JavaScript30)
+
+### Day 4: October 25, 2017 
+
+**Today's Progress**: 
+- fixing weather-app for mobiles
+- start the look and styles of wiki-app for complete it tomorrow
+- did day09 of #js30
+
+**Thoughts:** discover cool stuff about dev console, like styles and console.dir.
+
+**Link to work:** 
+- [wiki app](https://codepen.io/freesgen/pen/zEgzaL?editors=0010)
+- [js30 day7-8](https://github.com/jesusantguerrero/JavaScript30)
+
+### Day 5: October 26, 2017 
+
+**Today's Progress**: wiki-app completed for #freeCodeCamp,
+couple of js scripting challenges
+started reading YDKJS
+
+**Thoughts:** the scripting challenge about roman number converter was really complicated but i conquer it :D and figuring out how wikipedia api works.
+
+**Link to work:** 
+- [wiki app](https://codepen.io/freesgen/pen/zEgzaL?editors=0010)
+
+### Day 6: October 27, 2017 
+
+**Today's Progress**: more javascript , 
+more challenges everyday closer from my FCC Front-end certificate.
+
+**Thoughts:** I am almost a master with the prototypes methods of arrays
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)
+
+### Day 7: October 28, 2017 
+
+**Today's Progress**: adding new modules to an old project for as a requrement,freeCodeCamp js intermediate challenges
+
+**Thoughts:** nor much learning today was just coding
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)
+
+
+
+

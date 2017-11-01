@@ -132,6 +132,23 @@ more challenges everyday closer from my FCC Front-end certificate.
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)
 
+### Day 8: October 29, 2017 
+
+**Today's Progress**: working in my old project ICPayment adding module
+
+### Day 9: October 30, 2017 
+
+**Today's Progress**: working adding modules to my project ICPayment
+
+### Day 10: October 31, 2017 
+
+**Today's Progress**: back to freeCodeCamp js intermediate challenges
+
+**Thoughts:**
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)
+
+
 
 
 

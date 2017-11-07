@@ -144,11 +144,46 @@ more challenges everyday closer from my FCC Front-end certificate.
 
 **Today's Progress**: back to freeCodeCamp js intermediate challenges
 
-**Thoughts:**
 
 **Link to work:** [freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)
 
+### Day 11: November 1, 2017
+- finish ICPayment-soft changes
+- struggling with the last challenges in FCC (they're harder than never)
 
+**Thoughts:** I am seriusly considering refactor this project entirely in vuejs, about the algorithms, I could not figure out the smaller common multiple) i will conquer it but i make the others
 
+### Day 12: November 2, 2017
+- giving a try to @GoHugoIO
+- fix day10 Javascript 30 challenge
+- finish all FCC I Algorithms (the candy of day 😎)
 
+**Thouhts:** i were going to sleep already a let it for tomorrow but at the end i solved it! 
+
+**Link to work:** [freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)
+
+### Day 13: November 3, 2017
+
+- reading how to create a theme for hugo
+- started calculator for FCC(css and markup)
+
+### Day 14: November 4, 2017
+
+**Today's Progress**: finished calculator app
+with vue.js
+
+**Thoughts:** have to work in operator precedence, maybe tomorrow i will fix it
+
+**Link to work**
+[phone calculator app](https://t.co/FfQDkAAnix)
+
+### Day 15: November 5, 2017
+
+**Today's Progress**: Fix the calculator app
+- now is operator precedence aware
+- added animations
+- it seems more like my phone
+
+**Link to work**
+[phone calculator app](https://t.co/FfQDkAAnix)
 

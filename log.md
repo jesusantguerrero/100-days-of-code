@@ -187,3 +187,65 @@ with vue.js
 **Link to work**
 [phone calculator app](https://t.co/FfQDkAAnix)
 
+### Day 16: November 6, 2017
+
+**Today's Progress**: 
+- organizing my projects and bookmarks
+- started the promodoro app for FCC (css and html)
+-hoping do more before sleep
+**Link to work**
+[Promodoro Clock](https://codepen.io/freesgen/pen/bYwpNO?editors=0010)
+
+
+### Day 17: November 7, 2017
+
+**Today's Progress**: added vue to the promodoro, and improved the styles, just the sound and a button for reset
+ 
+**Thoughts:**I thought it would be more but actuallyy it needs some time
+**Link to work**
+[Promodoro Clock](https://codepen.io/freesgen/pen/bYwpNO?editors=0010)
+
+
+
+### Day 18: November 8, 2017
+**Today's Progress**:
+- finished Promodoro clock for FCC
+- reading javascript interview's questions
+- started to refactor icpayment to give a new version on january (private)
+
+**thoughts**I got inspired today from a video about how to fill my linkedin profile, the promodoro was nice and refactor well, i hope have this ready before January
+
+**Link to work**
+[Promodoro Clock](https://codepen.io/freesgen/pen/bYwpNO?editors=0010)
+
+### Day 19: November 9, 2017
+**Today's Progress**:
+- three advanced algorithms on fcc
+- dont know yet, how to aproach the AI in the tic tac toe game 
+- fix a bug on my personal webpage
+
+**Link to work:** 
+[freeCodeCamp](https://www.freecodecamp.org/jesusantguerrero)
+[my web](https://jesusantguerrero.com)
+
+### Day 20: November 10, 2017
+**Today's Progress**:
+- started the tic tac toe for freeCodeCamp
+
+**thoughts**I dont know how to apply the AI yet but let's see how it ends
+
+**Link to work:** 
+[tic tac toe](https://s.codepen.io/freesgen/debug/eevjdN/VGrWNnzaQmLM)
+
+
+### Day 21: November 11, 2017
+### Day 22: November 12, 2017
+**Today's Progress**:
+- now the computer can play
+- working hard in the AI but it still lose
+
+**thoughts** 
+I think i over work for the solution using vue but i am close to finish
+
+**Link to work:** 
+[tic tac toe](https://s.codepen.io/freesgen/debug/eevjdN/VGrWNnzaQmLM)
